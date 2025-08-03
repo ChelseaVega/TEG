@@ -1,0 +1,5 @@
+path: C:\Users\fran3\OneDrive\Escritorio\Paridera # O la ruta absoluta a la carpeta "Paridera"
+train: images/train
+val: images/train # Para esta prueba, usa la misma carpeta para val si no tienes más
+nc: 3
+names: ['acera', 'mobiliario_urbano', 'semaforo']
